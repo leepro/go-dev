@@ -28,6 +28,8 @@
 
 ## Algorithms
 
+* [Paxos](https://github.com/peterbourgon/caspaxos)
+
 ## Etc
 
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
