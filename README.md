@@ -11,3 +11,20 @@
 
 * [Organizing Go code](https://talks.golang.org/2014/organizeio.slide)
 * [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+
+
+## Data structures
+
+* [Go Data Structures](https://github.com/leepro/go-datastructures)
+
+## Algorithms
+
+
+
+## Etc
+
+* [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
+
+---
+
+[Reading Papers](https://github.com/leepro/papers_to_read) | [FPGA](https://github.com/leepro/FPGA) | [Books for Programmers](https://github.com/leepro/books_for_programmer) | [Stroage Engines](https://github.com/leepro/storage_engines)| [Dav Cheatsheet](https://github.com/leepro/dev-cheetsheet) | [Go Dev Guide](https://github.com/leepro/go-dev-guide) | [WebAssembly](https://github.com/leepro/wasm) | [New Web Tech](https://github.com/leepro/NewWebTech) | [MLNote](https://github.com/leepro/MLNotes)
