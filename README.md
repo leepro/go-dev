@@ -8,25 +8,25 @@
 * [Working With Files in Go](https://www.devdungeon.com/content/working-files-go)
 * [FAQ](https://golang.org/doc/faq)
 
+## Internals
+
+* https://github.com/teh-cmc/go-internals
+
 ## Coding Guides
 
 * [Organizing Go code](https://talks.golang.org/2014/organizeio.slide)
 * [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
-
 ## Concurrency
 
 * [Synch Queues in Go](https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4)
-
 
 ## Data structures
 
 * [Go Data Structures](https://github.com/leepro/go-datastructures)
 * [Cuckooc](https://github.com/vedhavyas/cuckooc)
 
-
 ## Algorithms
-
 
 ## Etc
 
