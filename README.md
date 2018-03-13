@@ -5,6 +5,7 @@
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Go Memory Model](https://golang.org/ref/mem)
+* [Working With Files in Go](https://www.devdungeon.com/content/working-files-go)
 * [FAQ](https://golang.org/doc/faq)
 
 ## Coding Guides
@@ -13,12 +14,18 @@
 * [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 
+## Concurrency
+
+* [Synch Queues in Go](https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4)
+
+
 ## Data structures
 
 * [Go Data Structures](https://github.com/leepro/go-datastructures)
+* [Cuckooc](https://github.com/vedhavyas/cuckooc)
+
 
 ## Algorithms
-
 
 
 ## Etc
