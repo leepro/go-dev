@@ -27,4 +27,4 @@
 
 ---
 
-[Reading Papers](https://github.com/leepro/papers_to_read) | [FPGA](https://github.com/leepro/FPGA) | [Books for Programmers](https://github.com/leepro/books_for_programmer) | [Stroage Engines](https://github.com/leepro/storage_engines)| [Dav Cheatsheet](https://github.com/leepro/dev-cheetsheet) | [Go Dev Guide](https://github.com/leepro/go-dev-guide) | [WebAssembly](https://github.com/leepro/wasm) | [New Web Tech](https://github.com/leepro/NewWebTech) | [MLNote](https://github.com/leepro/MLNotes)
+[Reading Papers](https://github.com/leepro/papers_to_read) | [FPGA](https://github.com/leepro/FPGA) | [Books for Programmers](https://github.com/leepro/books_for_programmer) | [Stroage Engines](https://github.com/leepro/storage_engines)| [Dav Cheatsheet](https://github.com/leepro/dev-cheatsheet) | [Go Dev Guide](https://github.com/leepro/go-dev-guide) | [WebAssembly](https://github.com/leepro/wasm) | [New Web Tech](https://github.com/leepro/NewWebTech) | [MLNote](https://github.com/leepro/MLNotes)
