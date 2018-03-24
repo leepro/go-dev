@@ -29,6 +29,9 @@
 ## Algorithms
 
 * [Paxos](https://github.com/peterbourgon/caspaxos)
+* Ratelimit
+  * [ratelimit](https://github.com/juju/ratelimit)
+  * [Token Bucket](https://en.wikipedia.org/wiki/Token_bucket)
 
 ## Etc
 
