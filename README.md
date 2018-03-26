@@ -39,6 +39,10 @@
   * http://www.drdobbs.com/cpp/simd-parallism-using-array-notation-for/227300296
   * http://www.cs.uu.nl/docs/vakken/magr/2017-2018/files/SIMD%20Tutorial.pdf
 
+## Assembly
+
+* [Quick Intro to Go Assembly](https://blog.hackercat.ninja/post/quick_intro_to_go_assembly/)
+
 ## Etc
 
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
