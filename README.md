@@ -37,6 +37,7 @@
   * https://github.com/leepro/c-simd-avx2-example
   * http://www.tommesani.com/index.php/simd/46-sse-arithmetic.html
   * http://www.drdobbs.com/cpp/simd-parallism-using-array-notation-for/227300296
+  * http://www.cs.uu.nl/docs/vakken/magr/2017-2018/files/SIMD%20Tutorial.pdf
 
 ## Etc
 
