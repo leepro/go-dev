@@ -42,6 +42,7 @@
 ## Assembly
 
 * [Quick Intro to Go Assembly](https://blog.hackercat.ninja/post/quick_intro_to_go_assembly/)
+* https://www.tutorialspoint.com/assembly_programming/assembly_quick_guide.htm
 
 ## Etc
 
