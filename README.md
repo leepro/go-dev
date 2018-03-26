@@ -32,6 +32,11 @@
 * Ratelimit
   * [ratelimit](https://github.com/juju/ratelimit)
   * [Token Bucket](https://en.wikipedia.org/wiki/Token_bucket)
+* SIMD
+  * https://github.com/leepro/c-simd-avx2-example
+  * http://www.tommesani.com/index.php/simd/46-sse-arithmetic.html
+  * http://www.drdobbs.com/cpp/simd-parallism-using-array-notation-for/227300296
+  * http://sci.tuomastonteri.fi/programming/sse
 
 ## Etc
 
